@@ -10,10 +10,10 @@
 
 ## Инструкция по запуску
 
-### 1. git clone https://github.com/pudge063/laravel_docker.git
-### 2. cd laravel_docker
-### 3. composer create-project laravel/laravel src
-### 4. docker-compose up -d
+1. git clone https://github.com/pudge063/laravel_docker.git
+2. cd laravel_docker
+3. composer create-project laravel/laravel src
+4. docker-compose up -d
 
 ## Запуск
 
